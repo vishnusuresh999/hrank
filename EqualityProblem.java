@@ -1,5 +1,6 @@
 //Problem: https://www.hackerrank.com/challenges/equality-in-a-array
 //Java 8
+//Solution in minimum no of lines of code.
 package com.test;
 
 import java.util.*;
